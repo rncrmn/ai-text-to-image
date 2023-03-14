@@ -1,3 +1,7 @@
+## Text to Image Generator Powered by AI
+
+![text to image generator](https://user-images.githubusercontent.com/55722725/224880067-d91b416f-8d24-45fa-852b-4a0530f4a61c.png)
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
